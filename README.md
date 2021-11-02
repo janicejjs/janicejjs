@@ -14,19 +14,21 @@
 <h2> I'm currently learning :books: </h2>
 
 __University of Information Technology__
-- **DS005.M11** Introduction to Data Science
-- **IT001.M18** Introduction to Programming
-- **MA003.M18** Linear Algebra
+- **DS005.M11** Introduction to *Data Science*
+- **IT001.M18** Introduction to *Programming*
+- **MA003.M18** *Linear Algebra*
 
 <h2> Languages and Tools 🧰 </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <h2> Contact me :phone: </h2>
 <p align="center">
  <a href="https://github.com/janicejjs" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://t.me/janicejjs" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href=https://www.linkedin.com/in/nhu-nguyen-928390225/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:nhunguyenwork64@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
